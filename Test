@@ -15,6 +15,7 @@ public  class Test{
 		
 		System.out.println("evenSum: "+ evenSum);
 		System.out.println("oddMax: "+ oddMax);
-		
+	       
+	       system.out.prinlt(githubsave);
     }
 }
